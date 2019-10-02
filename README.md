@@ -12,7 +12,7 @@ I have used the **Century21** website for web scraping. Century21 is a real-esta
 <br></br>
 
 
-The output is stored in **Output.csv** file after running the code.
+The output is stored in **Output.csv** file after running the code. The output should look something like this.
 <br></br>
 
 **Snapshot of Output**
