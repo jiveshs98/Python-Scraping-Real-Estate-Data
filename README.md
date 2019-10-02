@@ -6,3 +6,5 @@ I have used the **Century21** website for web scraping. Century21 is a real-esta
 <br></br>
 
 **Snapshot of the Website**
+
+![website](century21.JPG)
