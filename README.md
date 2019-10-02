@@ -12,6 +12,9 @@ I have used the **Century21** website for web scraping. Century21 is a real-esta
 <br></br>
 
 
+The output is stored in **Output.csv** file after running the code.
+<br></br>
+
 **Snapshot of Output**
 
 ![output](Output.JPG)
